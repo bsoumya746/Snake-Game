@@ -8,16 +8,13 @@ Clone the repo and open index.html file to play the game and enjoy.
 
 # Some insights of the project :
 
-## This is how the game looks on PCs:
+## This is how the game looks:
 ![Screenshot (Desktop)](https://user-images.githubusercontent.com/122631496/233264467-ad3a1e1f-7d4b-4901-9e04-ca1f5552c78e.png)
 
-You have to use the arrow keys in your keyboard to play it.
 
-
-
-## While in mobiles you can play with the arrow keys on the screen :
 ![Screenshot (Mobile)](https://user-images.githubusercontent.com/122631496/233264516-51c51720-80cc-42e3-aadc-f466d2c32da3.png)
 
+You have to use the arrow keys in your keyboard to play it.While in mobiles you can play with the arrow keys on the screen.
 
 
 ## Below is the video of the game being played :
