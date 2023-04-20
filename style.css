@@ -55,7 +55,7 @@ body{
 
 .play-board .head{
     background: #60CBFF;
-    
+    border-radius: 25px;
 }
 
 
@@ -67,7 +67,7 @@ body{
     padding: 25px 0;
     text-align: center;
     font-size: 1.3rem;
-    color: #B8C6DC;
+    color: #dadee6fd;
     width: calc(100% / 4);
     cursor: pointer;
     border-right: 1px solid #171B26;
