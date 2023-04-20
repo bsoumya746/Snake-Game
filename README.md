@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game.
 ## Clone the repo and open index.html file to play the game and enjoy.
 
 ## This is how the game looks on PCs:
