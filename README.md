@@ -1,5 +1,6 @@
 # Snake-Game.
-## Clone the repo and open index.html file to play the game and enjoy.
+
+Clone the repo and open index.html file to play the game and enjoy.
 
 ## This is how the game looks on PCs:
 ![Screenshot (Desktop)](https://user-images.githubusercontent.com/122631496/233264467-ad3a1e1f-7d4b-4901-9e04-ca1f5552c78e.png)
