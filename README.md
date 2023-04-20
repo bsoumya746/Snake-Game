@@ -1,6 +1,12 @@
 # Snake-Game.
+This is a simple yet fun snake-game.
 
+
+# How to use?
 Clone the repo and open index.html file to play the game and enjoy.
+
+
+# Some insights of the project :
 
 ## This is how the game looks on PCs:
 ![Screenshot (Desktop)](https://user-images.githubusercontent.com/122631496/233264467-ad3a1e1f-7d4b-4901-9e04-ca1f5552c78e.png)
